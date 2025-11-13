@@ -32,4 +32,5 @@ const produtosJSON = `{
 
 const resultado = formatarProdutos(produtosJSON);
 
-console.log(resultado); //saida = 'Notebook Gamer - R$ 2999.99 (Categoria: eletronicos)', 'Mesa Escritório - R$ 450.50 (Categoria: moveis)'
+console.log(resultado); //saida = 'Notebook Gamer - R$ 2999.99 (Categoria: eletronicos)', 'Mesa Escritório - R$ 450.50 (Categoria: moveis)'.
+
